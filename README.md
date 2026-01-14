@@ -8,13 +8,13 @@ I've worked as a Level 2 Support Analyst, gaining hands-on experience in managin
 
 My focus is on keeping systems connected, secure, and running smoothly — making sure data stays safe, available, and reliable. I'm always looking to learn more and apply my knowledge to solve real-world problems in tech. 🚀🔐
 
-## Conecte-se comigo
+## Let’s connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/erisk-santos/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erisksnt)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=blue)](https://discord.com/channels/@Sagat#1005/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/_erisksnt/)
 
-## Habilidades
+## Skills
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
