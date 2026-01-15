@@ -1,6 +1,6 @@
 # Erick Santos
 ## About me
-Graduate in Cybersecurity 🎓 | Passionate about Networks and Information Security 💻 | Seeking innovative solutions to protect data and systems 🛡️|
+Graduate in Cybersecurity 🎓 | Networks and Information Security 💻 | Seeking innovative solutions to protect data and systems 🛡️|
 
 I'm Erick, a graduate in Information Security and passionate about Computer Networks and Cybersecurity. 🧠💻
 
